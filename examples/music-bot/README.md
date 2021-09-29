@@ -1,3 +1,9 @@
+# Other dependencies
+- node 16
+- npm
+- ffmpeg
+- libtool (for sodium)
+- python 2 (for youtube-dl-exec)
 # Music Bot Example
 
 This is an example of how to create a music bot using @discordjs/voice alongside [discord.js](https://github.com/discordjs/discord.js).
